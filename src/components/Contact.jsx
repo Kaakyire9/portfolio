@@ -42,15 +42,15 @@ export default function Contact() {
             <div className="contact-details">
               <div className="contact-detail">
                 <div className="contact-icon">📧</div>
-                <span className="contact-detail-text">your.email@example.com</span>
+                <span className="contact-detail-text">r.aduboffour@gmail.com</span>
               </div>
               <div className="contact-detail">
                 <div className="contact-icon">📱</div>
-                <span className="contact-detail-text">+1 (555) 123-4567</span>
+                <span className="contact-detail-text">+4 (474) 4283-7521</span>
               </div>
               <div className="contact-detail">
                 <div className="contact-icon">📍</div>
-                <span className="contact-detail-text">Your City, Country</span>
+                <span className="contact-detail-text">Bristol, United Kingdom</span>
               </div>
             </div>
           </div>

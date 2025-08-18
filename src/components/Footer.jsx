@@ -25,7 +25,7 @@ export default function Footer() {
       <footer className="footer-container">
         <div className="footer-content">
           <div className="footer-main">
-            <h2 className="footer-brand">Reginald</h2>
+            <h2 className="footer-brand">Sampson Reginald Aduboffour</h2>
             <p className="footer-tagline">
               Crafting digital experiences with passion and precision. 
               Let's build something amazing together.
@@ -34,7 +34,7 @@ export default function Footer() {
 
           <div className="social-links">
             <a 
-              href="https://github.com" 
+              href="https://https://github.com/Kaakyire9" 
               className="social-link social-github"
               target="_blank"
               rel="noopener noreferrer"
@@ -42,7 +42,7 @@ export default function Footer() {
               <span>🐙</span>
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/reginald-aduboffour" 
               className="social-link social-linkedin"
               target="_blank"
               rel="noopener noreferrer"
@@ -50,7 +50,7 @@ export default function Footer() {
               <span>💼</span>
             </a>
             <a 
-              href="mailto:your.email@example.com" 
+              href="mailto:r.aduboffour@gmail.com" 
               className="social-link social-email"
             >
               <span>📧</span>
