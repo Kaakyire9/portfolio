@@ -6,37 +6,37 @@ export default function Projects() {
       id: 1,
       title: "Event Management Site",
       description: "A full-stack event management platform for organizing and hosting events.",
-      image: "https://eventia-dfe1ce6afa74.herokuapp.com/400x200",
+      image: "/images/eventia.png",
       tech: ["HTML", "CSS", "JavaScript", "Django", "PostgreSQL"],
       github: "https://github.com/Kaakyire9/Eventia",
       live: "https://eventia-dfe1ce6afa74.herokuapp.com/"
     },
     {
       id: 2,
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates and team collaboration features.",
-      image: "https://via.placeholder.com/400x200",
-      tech: ["React", "Node.js", "MongoDB"],
-      github: "https://github.com",
-      live: "https://example.com"
+      title: "Professional CV Builder",
+      description: "A comprehensive, professional CV builder with cutting-edge collaboration features that rival tools like Google Docs.",
+      image: "/images/kwickcv.png",
+      tech: ["React", "Vite", "Tailwind CSS"],
+      github: "https://github.com/Kaakyire9/kwickcv",
+      live: "https://kwickcv.vercel.app"
     },
     {
       id: 3,
-      title: "Weather Dashboard",
-      description: "A responsive weather dashboard that provides current conditions and forecasts with interactive maps.",
-      image: "https://via.placeholder.com/400x200",
-      tech: ["JavaScript", "CSS3", "API"],
-      github: "https://github.com",
-      live: "https://example.com"
+      title: "Diversity & Inclusion Platform",
+      description: "A platform aimed at promoting diversity and inclusion in the workplace through resources, training, and community engagement.",
+      image: "/images/diversity-inclusion.png",
+      tech: ["HTML", "CSS3", "Bootstrap"],
+      github: "https://github.com/Project1-Diversity-Inclusion",
+      live: "https://kaakyire9.github.io/Project1-Diversity-Inclusion/"
     },
     {
       id: 4,
       title: "Portfolio Website",
       description: "A modern, responsive portfolio website showcasing projects and skills with smooth animations.",
-      image: "https://via.placeholder.com/400x200",
-      tech: ["React", "CSS3", "Node.js"],
-      github: "https://github.com",
-      live: "https://example.com"
+      image: "/images/portfolio.png",
+      tech: ["React", "CSS3", "tailwind", "vite"],
+      github: "https://github.com/Kaakyire9/portfolio",
+      live: "https://portfolio-opal-zeta-ag7mu21uuj.vercel.app"
     }
   ];
 
