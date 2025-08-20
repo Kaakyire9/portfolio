@@ -62,7 +62,7 @@ export default function Navbar() {
             scrollToSection('hero');
           }}
         >
-          Reginald
+          SRA
         </a>
 
         {/* Desktop Navigation */}

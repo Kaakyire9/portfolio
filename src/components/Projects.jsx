@@ -4,12 +4,12 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce solution with user authentication, shopping cart, and payment integration.",
-      image: "https://via.placeholder.com/400x200",
-      tech: ["React", "Django", "PostgreSQL"],
-      github: "https://github.com",
-      live: "https://example.com"
+      title: "Event Management Site",
+      description: "A full-stack event management platform for organizing and hosting events.",
+      image: "https://eventia-dfe1ce6afa74.herokuapp.com/400x200",
+      tech: ["HTML", "CSS", "JavaScript", "Django", "PostgreSQL"],
+      github: "https://github.com/Kaakyire9/Eventia",
+      live: "https://eventia-dfe1ce6afa74.herokuapp.com/"
     },
     {
       id: 2,
